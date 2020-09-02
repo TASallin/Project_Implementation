@@ -2643,3 +2643,41 @@ Make sure 'Lib_Dialogue' has been compiled for  Bool Test
 [2020.09.02-17.39.16:436][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
 [2020.09.02-17.39.16:481][307]LogPlayLevel: Display: Destroying online subsystem :Context_44
 [2020.09.02-17.39.24:837][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
+[2020.09.02-17.44.08:749][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.09.02-17.44.08:831][686]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/testMap_Auto5534C9D5D412C4C6ACCAE5FAE3C197154.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/Autosaves/Game/LateNite/LateNiteMaps/testMap_Auto5.umap'
+[2020.09.02-17.44.08:837][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LateNite/LateNiteMaps/testMap' took 0.114
+[2020.09.02-17.44.08:837][686]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2020.09.02-17.48.21:438][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.09.02-17.48.24:656][465]LogSlate: Window 'Save Content' being destroyed
+[2020.09.02-17.48.24:757][465]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/GreetingMedia_Video_Mat0D1EAA494D9F26AFB493DAAA9B14573B.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/CharacterAssets/GreetingMedia_Video_Mat.uasset'
+[2020.09.02-17.48.24:794][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.09.02-17.48.24:853][465]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/testMap1FC03CE34B763ED35C42B2BDB663FA29.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/LateNiteMaps/testMap.umap'
+[2020.09.02-17.48.24:887][465]LogFileHelpers: Saving map 'testMap' took 0.123
+[2020.09.02-17.48.24:944][465]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/testMap_BuiltData99C195E94326AA5525FCC2ACAED2B7FA.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/LateNiteMaps/testMap_BuiltData.uasset'
+[2020.09.02-17.48.24:976][465]LogSlate: Window 'CalendarCreator' being destroyed
+[2020.09.02-17.48.24:995][465]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.48.24:995][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.48.25:149][465]LogSlate: Window 'LateNiteUnreal - Unreal Editor' being destroyed
+[2020.09.02-17.48.25:155][465]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.02-17.48.25:762][465]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.02-17.48.25:762][465]LogContentValidation: Display: Validating Material /Game/LateNite/CharacterAssets/GreetingMedia_Video_Mat.GreetingMedia_Video_Mat
+[2020.09.02-17.48.25:762][465]LogContentValidation: Display: Validating World /Game/LateNite/LateNiteMaps/testMap.testMap
+[2020.09.02-17.48.25:762][465]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LateNite/LateNiteMaps/testMap_BuiltData.testMap_BuiltData
+[2020.09.02-17.48.25:787][466]Cmd: QUIT_EDITOR
+[2020.09.02-17.48.25:788][466]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.02-17.48.25:805][466]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.02-17.48.26:114][466]LogExit: Preparing to exit.
+[2020.09.02-17.48.26:849][466]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.48.26:851][466]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.48.26:852][466]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.48.26:938][466]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.02-17.48.27:056][466]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.48.27:057][466]LogExit: Editor shut down
+[2020.09.02-17.48.27:071][466]LogExit: Transaction tracking system shut down
+[2020.09.02-17.48.27:923][466]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000015A27ACDBC0), frame # 118466
+[2020.09.02-17.48.27:923][466]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015A27A191C0), frame # 118466
+[2020.09.02-17.48.27:925][466]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015A27A55E00), frame # 118466
+[2020.09.02-17.48.28:121][466]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015A64A14680), frame # 118466
+[2020.09.02-17.48.28:121][466]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015A41017A00), frame # 118466
+[2020.09.02-17.48.28:475][466]LogExit: Object subsystem successfully closed.
+[2020.09.02-17.48.28:562][466]LogShaderCompilers: Display: Shaders left to compile 0
