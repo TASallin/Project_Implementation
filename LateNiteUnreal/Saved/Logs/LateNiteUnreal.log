@@ -2506,3 +2506,140 @@ Make sure 'Lib_Dialogue' has been compiled for  Bool Test
 [2020.09.02-16.48.04:459][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/LateNite/BackendClasses/CalendarCreator]
 [2020.09.02-16.48.04:513][252]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/CalendarCreator_Auto38FE9786646CAB9506633E0A144940709.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/Autosaves/Game/LateNite/BackendClasses/CalendarCreator_Auto3.uasset'
 [2020.09.02-16.48.04:515][252]LogFileHelpers: Auto-saving content packages took 0.057
+[2020.09.02-17.31.00:192][ 67]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/Calendar.Calendar
+[2020.09.02-17.31.15:142][410]LogSlate: Window 'Calendar' being destroyed
+[2020.09.02-17.31.15:189][410]LogSlate: Window 'Calendar' being destroyed
+[2020.09.02-17.31.15:243][410]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.31.15:243][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.31.17:112][453]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
+[2020.09.02-17.31.54:895][485]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/CalendarCreatorEB5C2FF24686AE6DF066D3A3B6D932B9.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/CalendarCreator.uasset'
+[2020.09.02-17.31.54:973][485]AssetCheck: New page: Asset Save: CalendarCreator
+[2020.09.02-17.31.54:973][485]LogContentValidation: Display: Validating Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
+[2020.09.02-17.32.02:282][667]LogSlate: Window 'CalendarCreator' being destroyed
+[2020.09.02-17.32.02:310][667]LogSlate: Window 'CalendarCreator' being destroyed
+[2020.09.02-17.32.02:352][667]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.32.02:352][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.32.10:985][932]LogUObjectHash: Compacting FUObjectHashTables data took  15.01ms
+[2020.09.02-17.32.13:918][932]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.02-17.32.28:049][499]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/LateNite/BackendClasses/DayStruct.DayStruct
+[2020.09.02-17.32.40:301][800]LogSlate: Window 'DayStruct' being destroyed
+[2020.09.02-17.32.40:317][800]LogSlate: Window 'DayStruct' being destroyed
+[2020.09.02-17.32.41:918][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/Day.Day
+[2020.09.02-17.32.49:294][978]LogSlate: Window 'Day' being destroyed
+[2020.09.02-17.32.49:310][978]LogSlate: Window 'Day' being destroyed
+[2020.09.02-17.32.49:311][978]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.32.49:311][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.33.05:596][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.09.02-17.33.07:570][557]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.02-17.33.07:714][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.09.02-17.33.24:461][275]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/LateNite/BackendClasses/DayStruct.DayStruct
+[2020.09.02-17.34.04:811][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.09.02-17.34.04:824][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LateNite/LateNiteMaps/testMap' took 0.049
+[2020.09.02-17.34.04:825][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LateNite/BackendClasses/DayStruct] ([1] browsable assets)...
+[2020.09.02-17.34.04:825][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/LateNite/BackendClasses/DayStruct]
+[2020.09.02-17.34.04:842][346]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/DayStruct_Auto435383970468100577C623A9033203415.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/Autosaves/Game/LateNite/BackendClasses/DayStruct_Auto4.uasset'
+[2020.09.02-17.34.04:844][346]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.09.02-17.35.30:126][438]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/DayStructFCF47F1747AC7431A0EA0DB83D1955F2.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/DayStruct.uasset'
+[2020.09.02-17.35.30:170][438]AssetCheck: New page: Asset Save: DayStruct
+[2020.09.02-17.35.30:170][438]LogContentValidation: Display: Validating UserDefinedStruct /Game/LateNite/BackendClasses/DayStruct.DayStruct
+[2020.09.02-17.35.59:349][765]LogSlate: Window 'DayStruct' being destroyed
+[2020.09.02-17.35.59:358][765]LogSlate: Window 'DayStruct' being destroyed
+[2020.09.02-17.36.02:576][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
+[2020.09.02-17.36.05:237][879]LogSlate: Window 'CalendarCreator' being destroyed
+[2020.09.02-17.36.05:276][879]LogSlate: Window 'CalendarCreator' being destroyed
+[2020.09.02-17.36.05:277][879]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.36.05:278][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.36.06:538][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/Calendar.Calendar
+[2020.09.02-17.36.16:027][ 95]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/CalendarCBE71C2448CEE62D580DB2B4BC438B9F.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/Calendar.uasset'
+[2020.09.02-17.36.16:059][ 95]AssetCheck: New page: Asset Save: Calendar
+[2020.09.02-17.36.16:059][ 95]LogContentValidation: Display: Validating Blueprint /Game/LateNite/BackendClasses/Calendar.Calendar
+[2020.09.02-17.36.16:883][113]LogSlate: Window 'Calendar' being destroyed
+[2020.09.02-17.36.16:898][113]LogSlate: Window 'Calendar' being destroyed
+[2020.09.02-17.36.16:900][113]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.36.16:900][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.36.20:925][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
+[2020.09.02-17.36.57:833][ 62]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/CalendarCreator91A89E7444E0FCDD800341BD6EBE198D.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/CalendarCreator.uasset'
+[2020.09.02-17.36.57:861][ 62]AssetCheck: New page: Asset Save: CalendarCreator
+[2020.09.02-17.36.57:861][ 62]LogContentValidation: Display: Validating Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
+[2020.09.02-17.38.33:218][183]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/CalendarCreator16823414465E14A2DBEE8B9D2D5F332D.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/CalendarCreator.uasset'
+[2020.09.02-17.38.33:242][183]AssetCheck: New page: Asset Save: CalendarCreator
+[2020.09.02-17.38.33:242][183]LogContentValidation: Display: Validating Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
+[2020.09.02-17.38.40:028][360]BlueprintLog: New page: Compile CalendarCreator
+[2020.09.02-17.38.40:123][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.09.02-17.38.41:837][399]LogSlate: Window 'CalendarCreator' being destroyed
+[2020.09.02-17.38.41:857][399]LogSlate: Window 'CalendarCreator' being destroyed
+[2020.09.02-17.38.41:858][399]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.38.41:858][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.38.48:356][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/Calendar.Calendar
+[2020.09.02-17.39.10:856][157]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/Calendar714FA5024F18458C6A0089A891A9F70D.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/Calendar.uasset'
+[2020.09.02-17.39.10:883][157]AssetCheck: New page: Asset Save: Calendar
+[2020.09.02-17.39.10:883][157]LogContentValidation: Display: Validating Blueprint /Game/LateNite/BackendClasses/Calendar.Calendar
+[2020.09.02-17.39.11:848][180]LogSlate: Window 'Calendar' being destroyed
+[2020.09.02-17.39.11:869][180]LogSlate: Window 'Calendar' being destroyed
+[2020.09.02-17.39.11:871][180]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.39.11:871][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.39.13:022][208]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.02-17.39.13:062][208]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.09.02-17.39.13:067][208]LogPlayLevel: [PlayLevel] Compiling Calendar before play...
+[2020.09.02-17.39.13:146][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.09.02-17.39.13:157][208]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (1 blueprints)
+[2020.09.02-17.39.13:164][208]PIE: New page: PIE session: testMap (Sep 2, 2020, 9:39:13 AM)
+[2020.09.02-17.39.13:171][208]LogPlayLevel: Creating play world package: /Game/LateNite/LateNiteMaps/UEDPIE_0_testMap
+[2020.09.02-17.39.13:205][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033398s)
+[2020.09.02-17.39.13:214][208]LogAIModule: Creating AISystem for world testMap
+[2020.09.02-17.39.13:217][208]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015AAE3EBC00), frame # 116208
+[2020.09.02-17.39.13:220][208]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015AB27E56C0), frame # 116208
+[2020.09.02-17.39.13:223][208]LogPlayLevel: PIE: World Init took: (0.018562s)
+[2020.09.02-17.39.13:224][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LateNite/LateNiteMaps/testMap.testMap to /Game/LateNite/LateNiteMaps/UEDPIE_0_testMap.testMap (0.052359s)
+[2020.09.02-17.39.13:247][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.02-17.39.13:263][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.02-17.39.13:263][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.02-17.39.13:263][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.02-17.39.13:263][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.02-17.39.13:263][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.02-17.39.13:263][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.02-17.39.13:263][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.02-17.39.13:264][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.02-17.39.13:269][208]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.02-17.39.13:269][208]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.02-17.39.13:282][208]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.02-17.39.13:282][208]LogAudioMixer: Display: 1: FrontRight
+[2020.09.02-17.39.13:421][208]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.09.02-17.39.13:424][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.02-17.39.13:424][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.02-17.39.13:425][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.02-17.39.13:427][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.02-17.39.13:454][208]LogInit: FAudioDevice initialized.
+[2020.09.02-17.39.13:501][208]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.09.02-17.39.13:534][208]LogWorld: Bringing World /Game/LateNite/LateNiteMaps/UEDPIE_0_testMap.testMap up for play (max tick rate 60) at 2020.09.02-13.39.13
+[2020.09.02-17.39.13:537][208]LogWorld: Bringing up level for play took: 0.019901
+[2020.09.02-17.39.13:545][208]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.09.02-17.39.13:598][208]LogBlueprintUserMessages: [None] 234
+[2020.09.02-17.39.13:599][208]LogBlueprintUserMessages: [None] 115
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [21/0]!
+[2020.09.02-17.39.13:601][208]LogBlueprintUserMessages: [None] 21
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [101/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [102/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [103/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [104/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [105/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [128/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [129/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [130/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [131/0]!
+[2020.09.02-17.39.13:601][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Days [132/0]!
+[2020.09.02-17.39.13:608][208]LogMediaAssets: Error: Failed to validate media source Greeting (img://D:/Documents/georgia tech/year 4 semester 1/Project Design/character art)
+[2020.09.02-17.39.13:612][208]PIE: Server logged in
+[2020.09.02-17.39.13:613][208]PIE: Play in editor total start time 0.561 seconds.
+[2020.09.02-17.39.16:336][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.39.16:336][306]LogWorld: BeginTearingDown for /Game/LateNite/LateNiteMaps/UEDPIE_0_testMap
+[2020.09.02-17.39.16:338][306]LogWorld: UWorld::CleanupWorld for testMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.39.16:339][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.39.16:351][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.02-17.39.16:355][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-17.39.16:386][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.39.16:431][306]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015AB27E56C0), frame # 116306
+[2020.09.02-17.39.16:432][306]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015AAE3EBC00), frame # 116306
+[2020.09.02-17.39.16:436][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.09.02-17.39.16:481][307]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.09.02-17.39.24:837][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LateNite/BackendClasses/CalendarCreator.CalendarCreator
