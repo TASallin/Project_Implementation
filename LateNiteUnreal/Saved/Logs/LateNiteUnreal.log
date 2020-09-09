@@ -1516,3 +1516,43 @@ Make sure 'Lib_Dialogue' has been compiled for  Bool Test
 [2020.09.09-14.36.03:165][348]LogSlate: Window 'CalendarCreator' being destroyed
 [2020.09.09-14.36.03:182][348]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2020.09.09-14.36.03:182][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.09-14.40.14:988][752]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/LateNite/BackendClasses/Event.Event
+[2020.09.09-14.40.18:518][836]LogSlate: Took 0.006688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.09.09-14.40.23:943][121]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/Event37823D9E43247E0D3AAF09A730E0ACF2.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/Event.uasset'
+[2020.09.09-14.40.23:964][121]AssetCheck: New page: Asset Save: Event
+[2020.09.09-14.40.23:964][121]LogContentValidation: Display: Validating UserDefinedStruct /Game/LateNite/BackendClasses/Event.Event
+[2020.09.09-14.40.53:090][988]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/EventA1121A024AEC9836494FD49FE2B7BA39.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/Event.uasset'
+[2020.09.09-14.40.53:106][988]AssetCheck: New page: Asset Save: Event
+[2020.09.09-14.40.53:106][988]LogContentValidation: Display: Validating UserDefinedStruct /Game/LateNite/BackendClasses/Event.Event
+[2020.09.09-14.40.55:133][ 45]LogSlate: Window 'Event' being destroyed
+[2020.09.09-14.40.55:155][ 45]LogSlate: Window 'Event' being destroyed
+[2020.09.09-14.41.06:294][597]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/LateNite/BackendClasses/EventChoice.EventChoice
+[2020.09.09-14.42.34:338][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.09.09-14.42.34:344][876]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LateNite/LateNiteMaps/testMap' took 0.046
+[2020.09.09-14.42.34:345][876]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LateNite/BackendClasses/EventChoice] ([1] browsable assets)...
+[2020.09.09-14.42.34:345][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/LateNite/BackendClasses/EventChoice]
+[2020.09.09-14.42.34:355][876]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/EventChoice_Auto1163C5306434958B1B50C209D0AC0C809.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/Autosaves/Game/LateNite/BackendClasses/EventChoice_Auto1.uasset'
+[2020.09.09-14.42.34:356][876]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.09.09-14.49.51:487][135]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/EventChoice74032B134A327387D347CABA6E10D849.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/EventChoice.uasset'
+[2020.09.09-14.49.51:506][135]AssetCheck: New page: Asset Save: EventChoice
+[2020.09.09-14.49.51:506][135]LogContentValidation: Display: Validating UserDefinedStruct /Game/LateNite/BackendClasses/EventChoice.EventChoice
+[2020.09.09-14.50.20:154][965]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/EventChoiceB9200D814150EED5772AF69F68859F8C.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/EventChoice.uasset'
+[2020.09.09-14.50.20:174][965]AssetCheck: New page: Asset Save: EventChoice
+[2020.09.09-14.50.20:175][965]LogContentValidation: Display: Validating UserDefinedStruct /Game/LateNite/BackendClasses/EventChoice.EventChoice
+[2020.09.09-14.50.23:442][ 66]LogSlate: Window 'EventChoice' being destroyed
+[2020.09.09-14.50.23:461][ 66]LogSlate: Window 'EventChoice' being destroyed
+[2020.09.09-14.50.24:622][108]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/LateNite/BackendClasses/Event.Event
+[2020.09.09-14.51.09:085][763]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/EventD091A88042CBF347661162B63AB24515.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/Event.uasset'
+[2020.09.09-14.51.09:102][763]AssetCheck: New page: Asset Save: Event
+[2020.09.09-14.51.09:102][763]LogContentValidation: Display: Validating UserDefinedStruct /Game/LateNite/BackendClasses/Event.Event
+[2020.09.09-14.51.10:264][803]LogSlate: Window 'Event' being destroyed
+[2020.09.09-14.51.10:277][803]LogSlate: Window 'Event' being destroyed
+[2020.09.09-14.51.12:296][870]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/LateNite/BackendClasses/EventChoice.EventChoice
+[2020.09.09-14.52.14:036][240]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Event_73' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Event_73' is empty
+[2020.09.09-14.52.21:077][439]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Event_77' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Event_77' is empty
+[2020.09.09-14.52.22:997][482]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Event_81' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Event_81' is empty
+[2020.09.09-14.52.26:127][568]LogSavePackage: Moving '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Saved/EventChoice1EAE6E39426BC2EA43C3C7A5702E848D.tmp' to '../../../../../Users/trist/Documents/College/Design/Project_Implementation/LateNiteUnreal/Content/LateNite/BackendClasses/EventChoice.uasset'
+[2020.09.09-14.52.26:149][568]AssetCheck: New page: Asset Save: EventChoice
+[2020.09.09-14.52.26:149][568]LogContentValidation: Display: Validating UserDefinedStruct /Game/LateNite/BackendClasses/EventChoice.EventChoice
+[2020.09.09-14.52.28:043][623]LogSlate: Window 'EventChoice' being destroyed
+[2020.09.09-14.52.28:063][623]LogSlate: Window 'EventChoice' being destroyed
