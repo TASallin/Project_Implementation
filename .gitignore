@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Unreal garbage
+CachedAssetRegistry.bin
+3688439234.bin
+AutoScreenshot.png
+EditorPerProjectUserSettings.ini
+Engine.ini
+LateNiteUnreal.log
