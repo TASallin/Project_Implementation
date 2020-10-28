@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LateNiteUnreal",
+			"Path": "D:\\JRDProject\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LateNiteUnrealEditor",
+			"Path": "D:\\JRDProject\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
