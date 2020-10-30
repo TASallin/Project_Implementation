@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\josh1\\cs3312\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnreal\\LateNiteUnreal.Build.cs",
-		"C:\\Users\\josh1\\cs3312\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnreal.Target.cs",
-		"C:\\Users\\josh1\\cs3312\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnrealEditor.Target.cs"
+		"D:\\Documents\\georgia tech\\year 4 semester 1\\Project Design\\UE4 git\\Project_Implementation\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnreal\\LateNiteUnreal.Build.cs",
+		"D:\\Documents\\georgia tech\\year 4 semester 1\\Project Design\\UE4 git\\Project_Implementation\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnreal.Target.cs",
+		"D:\\Documents\\georgia tech\\year 4 semester 1\\Project Design\\UE4 git\\Project_Implementation\\Project_Implementation\\LateNiteUnreal\\Source\\LateNiteUnrealEditor.Target.cs"
 	],
-	"EngineVersion": "4.25.3"
+	"EngineVersion": "4.25.0"
 }
